@@ -1,0 +1,6 @@
+complexity of bfs: O(n+m)
+
+limitations of dijkstra algorithm:
+1. it does not work on negative edge.
+
+problem set: https://docs.google.com/document/d/1JycuABajnX6yOolJUqDhjX-uAzTA0AB1ON89RxK0jPU/edit
